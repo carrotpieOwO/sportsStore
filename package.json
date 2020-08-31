@@ -3,7 +3,7 @@
     "node": ">= 4.0"
   },
   "dependencies": {
-    "connect": "^1.8.5",
+    "connect": "^3.0.0",
     "deployd": "^1.0.0",
     "dpd-clientlib": "^0.0.1",
     "dpd-dashboard": "^0.0.1",
