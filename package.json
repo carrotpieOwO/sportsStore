@@ -8,7 +8,7 @@
     "dpd-clientlib": "^0.0.1",
     "dpd-dashboard": "^0.0.1",
     "express": "^4.17.1",
-    "grunt": "^1.2.1",
+    "grunt": "^1.5.2",
     "node": "^12.0.0"
   },
   "devDependencies": {
