@@ -7,7 +7,7 @@
     "deployd": "^1.0.0",
     "dpd-clientlib": "^0.0.1",
     "dpd-dashboard": "^0.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "grunt": "^1.2.1",
     "node": "^12.0.0"
   },
